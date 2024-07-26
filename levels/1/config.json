@@ -1,0 +1,14 @@
+{
+  "name": "first level",
+  "message": "this message will popup before the game begins with a continue button",
+  "intro": "link to image - can be animated to be display with message above",
+  "gridSize": "3",
+  "gridWidth": "3",
+  "gridHeight": "6",
+  "allowSwap": true,
+  "allowFlip": false,
+  "allowRotate": false,
+  "rewardPoints": 100,
+  "rewardCredits": 10
+}
+
